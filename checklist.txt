@@ -7,3 +7,6 @@ This is my git and github checklist
 5. git log
 
 I have completed all of these commands and understand them!
+
+6. git checkout
+7. git revert
